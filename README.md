@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @srijan-git
 - 👀 I’m interested in Web Dev 
-- 🌱 I’m currently learning Angular,NodeJs,JS,MongoDB,Express,JSE,J2EE
+- 🌱 I’m currently learning Angular,NodeJs,JS,MongoDB,Express,Core Java,J2EE,C#
 - 📫 How to reach me ...Email at srijankhan20030@gmail.com
 
 
